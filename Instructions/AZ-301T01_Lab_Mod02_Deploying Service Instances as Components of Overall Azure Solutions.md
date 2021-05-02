@@ -67,7 +67,7 @@
                 "kind": "TextAnalytics",
                 "location": "[resourceGroup().location]",
                 "sku": {
-                    "name": "S1"
+                    "name": "S"
                 },
                 "properties": {}
             }
